@@ -15,7 +15,7 @@ public class GradeCal {
           System.out.print("Enter the marks obtained in subject " + i + ": ");
           int subjectMarks = sc.nextInt();
           if(subjectMarks>100){
-            System.out.println("Invalid Entery: Your marks should be out of 100");
+            System.out.println("Invalid Entery: Your marks  should be out of 100");
         
             System.exit(0);
           }else{
